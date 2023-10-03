@@ -34,6 +34,7 @@ Wallets and mints `MUST` implement all mandatory specs and `CAN` implement optio
 | TBD | Mint LN swap | [Cashu.Me][cashume], [Nutstash][ns] | N/A
 | TBD | Token comment | - | N/A
 | TBD | Token sender information | - | N/A
+| TBD | Restore from seed phrase | - | N/A
 
 
 [py]: https://github.com/cashubtc/cashu
